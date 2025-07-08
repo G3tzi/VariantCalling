@@ -159,7 +159,7 @@ mkdir -p raw_data bam vcfs seq_quality map_quality multiqc_reports bgs
 
 ```
 genomics_project/
-├── raw_data/           # Symbolic links to FASTQ files
+├── raw_data/          # Symbolic links to FASTQ files
 ├── bam/               # Aligned BAM files
 ├── vcfs/              # Variant call files
 ├── seq_quality/       # FastQC reports
